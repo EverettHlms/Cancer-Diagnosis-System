@@ -1,0 +1,17 @@
+Cancer Diagnosis Expert System Steps to Run-
+
+1. Open CancerDiagnosisSystem.java in VSCode or any IDE to run java code.
+
+2. Run code, the program uses command line interface within the terminal to interact with the user.
+
+3. The system will initially prompt with basic questions to insure the intended user suspects cancer(Yes or No) and gender(Males can't have breast cancer) so Male or Female.
+
+4. The system will then prompt specific symptoms in order based off certain cancers for that gender, respond Yes to your symptoms.
+
+5. If you responded to all your symptoms, or see no more of your respective symptoms, enter Done.
+
+6. The system will then match keyword/symptoms, diagnose your cancer, output the rule number, clause number and locations of clause variables, as well as the treatment.
+
+7. The important information such as diagnosis, treatment, and derived variables will be output in a table format.
+
+8. Re-run the program for another diagnosis.
